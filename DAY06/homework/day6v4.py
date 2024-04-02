@@ -1,0 +1,5 @@
+print(3 < 5)
+print(-5 < 10)
+print(3.2 < 7.8)
+print(99 < 100)
+print(-10 < -3)
